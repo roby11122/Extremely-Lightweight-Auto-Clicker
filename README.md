@@ -2,7 +2,7 @@
 
 A high-performance, hyper-optimized Windows auto-clicker built with pure **Win32 C++**. By completely dropping the C Runtime Library (CRT) dependency and avoiding heavy automation frameworks, this entire application compiles down to an impossible **13 KB standalone executable**.
 
-No installation, no telemetry, no framework overhead—just raw machine code.
+No installation, no telemetry, no framework overhead - just raw machine code.
 
 ## ⚡ Performance Breakdown
 
